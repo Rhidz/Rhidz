@@ -4,7 +4,7 @@ I am a software engineer with more than two years of industry experience. Curren
 A few other things that might interest you are:
  
 - 👯 I’m looking to collaborate on server side programming with Vapor.
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with finding good ideas for making apps that utilize the power of AI. 
 - 💬 DM me on instagram(ishRhidz) if you wanna know more about my projects or job experiece.
 - 📫 If you want to reach me, mail me at rhidita20@gmail.com
 - 😄 Pronouns: She, Her 
