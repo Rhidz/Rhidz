@@ -1,5 +1,5 @@
 ### Hey, I am Rhidita 👋
-I am a software engineer with more than two years of industry experience. Currently, I am working as a software tester by day and a freelance iOS developer by night. I am also an avid researcher. I researched in generative adversarial networks during my final year of college.
+I am a software engineer with more than two years of industry experience. Currently, I am working as a software engineer and an independent iOS developer. I am also an avid researcher. I researched in generative adversarial networks during my final year of college.
 
 A few other things that might interest you are:
  
