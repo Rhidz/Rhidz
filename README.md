@@ -1,12 +1,15 @@
-### Hey, I am Rhidita 👋
-I am a software engineer with more than two years of industry experience. Currently, I am working as a software engineer and an independent iOS developer. I am also an avid researcher. I researched in generative adversarial networks during my final year of college.
+### Hey, I am Rhidita 👋. You can call me Rhidz. 
+
+I am a Ph.D. candidate in Imaging Science at Rochester Institute of Technology (RIT). I am still confused about my research interests but pretty will do some fancy DL task in computer vision and medical imaging.
+
+Previously, I was a software engineer with more than three and half year of industry experience in functional, exploratory testing web API testing. I was also an independent iOS developer, you can check my iOS projects in my repositories. 
 
 A few other things that might interest you are:
  
-- 👯 I’m looking to collaborate on server side programming with Vapor.
-- 🤔 I’m looking for help with finding good ideas for making apps that utilize the power of AI. 
-- 💬 DM me on instagram(ishRhidz) if you wanna know more about my projects or job experiece.
+- 👯 I’m looking to collaborate on research in GANs and medical imaging.
+- 🤔 I’m looking for help with finding good ideas for making apps that follow the MVVM design pattern.
+- 💬 DM me on instagram(ishRhidz) if you wanna know more about me.
 - 📫 If you want to reach me, mail me at rhidita20@gmail.com
 - 😄 Pronouns: She, Her 
-- ⚡ Fun fact: I am a horrible singer :D
+- ⚡ Fun fact: I am a horrible singer :D and I whine almost about everything. 
 
