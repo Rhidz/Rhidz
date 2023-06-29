@@ -1,6 +1,6 @@
 ### Hey, I am Rhidita 👋. You can call me Rhidz. 
 
-I am a Ph.D. candidate in Imaging Science at Rochester Institute of Technology (RIT). I am still confused about my research interests but pretty will do some fancy DL task in computer vision and medical imaging.
+I am a Ph.D. student in Imaging Science program at Rochester Institute of Technology (RIT).
 
 Previously, I was a software engineer with more than three and half year of industry experience in functional, exploratory testing web API testing. I was also an independent iOS developer, you can check my iOS projects in my repositories. 
 
