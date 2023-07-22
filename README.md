@@ -1,4 +1,4 @@
-### Hey, I am Rhidita 👋 
+### Hey, I am Rhidita 👋!!
 ![giphy](https://github.com/Rhidz/Rhidz/assets/36930197/fb001767-2708-444d-8b60-f497f7e5f4a6)
 
 
