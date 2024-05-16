@@ -3,7 +3,7 @@
 
 
 
-I am a Ph.D. student in the Computer Science program at the University of Memphis
+I am a Ph.D. student in the Computer Science program at the University of Memphis. I work at the CUBES Lab.
 
 Here are a few things about me:
 - 👩🏻‍🔬 I research at the crossroads of Human-Computer Interaction, Affective Computing, and Artificial Intelligence. 
