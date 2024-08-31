@@ -6,7 +6,7 @@
 I am a Ph.D. student in the Computer Science program at the University of Memphis. I work at the CUBES Lab advised by Dr. Brandon Booth.
 
 Here are a few things about me:
-- 👩🏻‍🔬 I research at the crossroads of Human-Computer Interaction, Affective Computing, Software Engineering, and Artificial Intelligence. 
+- 👩🏻‍🔬 I research at the crossroads of Human-Computer Interaction, Software Engineering, and Artificial Intelligence. 
 - 👯 Previously, I worked as a Software Engineer, QA for over three and a half years in Bangladesh.
 - 🤔 I moved to the States in the Fall of 2022 and have learned intensively about vision and imaging through courses like Fourier transformations, Image Processing and Computer Vision during my time in RIT and have garnered various interdisciplinary skills.
 - Unfortunately, RIT didn't workout in my favor.
