@@ -3,7 +3,7 @@
 
 
 
-I am a Ph.D. student in the Computer Science program at the University of Memphis. I work at the CUBES Lab advised by Dr. Brandon Booth.
+#### I am a Ph.D. student in the Computer Science program at the University of Memphis. I work at the CUBES Lab advised by Dr. Brandon Booth.
 
 Here are a few things about me:
 - 👩🏻‍🔬 My research interests are in Multimodal AI and Learning, Machine Learning , Perceptional Modelling, and Affective Computing. 
